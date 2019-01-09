@@ -1,0 +1,25 @@
+{
+	"Plenaries": [
+		"The EU's Midlife Crisis",
+		"Startup Cleanup",
+		"Data Daycare",
+		"The Plight of Workers’ Rights",
+		"Reconciliation and Indigenization",
+		"Popular Defiance"
+	],
+	"Year": "2019",
+	"Theme": "2020 Vision",
+	"EarlyBirdDueDate" : "Jan 18, 2019",
+	"DueDate": "Jan 28, 2019",
+	"RegOpen": true,
+	"Links": {
+		"site": "http://worldaffairs.ucc.on.ca/",
+		"contact": "http://worldaffairs.ucc.on.ca/contact/",
+		"repo": "https://github.com/worldaffairsconference/donna",
+		"email": "mailto:wac@ucc.on.ca",
+		"facebook": "http://facebook.com/worldaffairsconference",
+		"github": "http://github.com/worldaffairsconference",
+		"instagram": "http://instagram.com/worldaffairscon",
+		"twitter": "http://twitter.com/worldaffairscon"
+	}
+}
