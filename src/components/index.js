@@ -73,7 +73,7 @@ export default class App extends Component {
       <HashRouter>
         <div>
           <Navbar color="faded" light toggleable>
-            <NavbarBrand href="/donna/#/"><img src={Logo} alt="World Affairs Conference Logo" className="nav-image"/></NavbarBrand>
+            <NavbarBrand href="/reg/#/"><img src={Logo} alt="World Affairs Conference Logo" className="nav-image"/></NavbarBrand>
             <NavbarToggler right onClick={this.toggle} />
 
             <Collapse isOpen={this.state.isOpen} navbar>
@@ -82,14 +82,14 @@ export default class App extends Component {
                   <NavLink href={Links["site"]}>WAC {Year}</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="/donna/#/dashboard">Dashboard</NavLink>
+                  <NavLink href="/reg/#/dashboard">Dashboard</NavLink>
                 </NavItem>
                 {this.state.authed
                   ?<NavItem>
                     <NavLink onClick={() => {logout()}} >Log Out</NavLink>
                    </NavItem>
                   :<NavItem>
-                    <NavLink href="/donna/#/login">Log In</NavLink>
+                    <NavLink href="/reg/#/login">Log In</NavLink>
                    </NavItem>
                 }
               </Nav>

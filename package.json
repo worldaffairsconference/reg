@@ -2,7 +2,7 @@
   "name": "worldAffairsConference",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://worldaffairsconference.github.io/donna/",
+  "homepage": "http://worldaffairsconference.github.io/reg/",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "react-scripts": "0.9.5"
